@@ -55,7 +55,7 @@ a{
     float: left; 
     margin-right: 20px;
 }
-#Lasagna{
+#Recipes{
     display: flex;
     align-items: center; /* Aligns items vertically*/
     /*justify-content: center; /* Aligns items horizontally*/
@@ -74,6 +74,11 @@ h1{
 
 }
 p{
+    color: tomato; 
+    /*font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-size: 1em;
+}
+ul{
     color: tomato; 
     /*font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
     font-size: 1em;
